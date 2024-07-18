@@ -1,5 +1,5 @@
 <h1>
-  Étude de Faisabilité: Moteur de Classification d'Articles
+  Classifiez automatiquement des biens de consommation
 </h1>
 
 <div class='img'>
